@@ -2,10 +2,18 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
+using namespace std;
 
 int main()
 {
-    return 0;
+	cout << "Hello Git!" << endl;
+ 
+	int value = 0;
+
+	cin >> value;
+
+	return 0;
 }
 
